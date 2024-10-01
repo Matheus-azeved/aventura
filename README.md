@@ -22,10 +22,3 @@ O projeto consiste em três arquivos principais:
 - **style.css:** Define o estilo visual do jogo, incluindo cores, fontes e layout.
 - **script.js:** Contém o código JavaScript que controla a lógica do jogo, como a mudança entre os passos da história.
 
-### Sugestões de melhoria para o futuro
-
-- Implementar mais imagens e efeitos sonoros nos pontos para tornar a experiência mais imersiva.
-- Criar mais ramificações na história, adicionando mais escolhas e finais ✨
-- Deixar o projeto mais acessível para dispositivos móveis.
-
-**Divirta-se em busca da cidade perdida! 🛝** 
